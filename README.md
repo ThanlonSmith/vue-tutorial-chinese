@@ -42,6 +42,7 @@ Vue辅助教程分入门篇和深入篇，教程中有很多实例，初学者�
 #### [20. css中scoped的使用.md](https://github.com/ThanlonSmith/vue-tutorial-chinese/blob/master/2.%20Vue%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E6%B7%B1%E5%85%A5%E7%AF%87/20.%20css%E4%B8%ADscoped%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 #### [21. vue-cli的使用.md](https://github.com/ThanlonSmith/vue-tutorial-chinese/blob/master/2.%20Vue%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E6%B7%B1%E5%85%A5%E7%AF%87/21.%20vue-cli%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 #### [22. element-ui的使用.md](https://github.com/ThanlonSmith/vue-tutorial-chinese/blob/master/2.%20Vue%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E6%B7%B1%E5%85%A5%E7%AF%87/22.%20element-ui%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+### 三. Vue基础教程后续篇
 #### [1. webpack和element-ui简单整理.md](https://github.com/ThanlonSmith/vue-tutorial-chinese/blob/master/3.%20Vue%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E5%90%8E%E7%BB%AD%E7%AF%87/1.%20webpack%E5%92%8Celement-ui%E7%AE%80%E5%8D%95%E6%95%B4%E7%90%86.md)
 #### [2. Axios.md](https://github.com/ThanlonSmith/vue-tutorial-chinese/blob/master/3.%20Vue%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E5%90%8E%E7%BB%AD%E7%AF%87/2.%20Axios.md)
 #### [3. Vuex.md](https://github.com/ThanlonSmith/vue-tutorial-chinese/blob/master/3.%20Vue%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E5%90%8E%E7%BB%AD%E7%AF%87/3.%20Vuex.md)
